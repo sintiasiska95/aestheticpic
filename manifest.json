@@ -1,0 +1,38 @@
+{
+  "name": "aestheticpic.com",
+  "short_name": "aestheticpic.com",
+  "start_url": "https://www.aestheticpic.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#008080",
+  "description": "aestheticpic,aesthetic picture,aesthetic wallpapers,aesthetic meme,aesthetic images,aesthetic quotes,aesthetic art.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-4p6kono4p8A/YL4r4fdFLzI/AAAAAAAAAAU/Lc-r-_yCvycELMMZzTuq5QJw6y3g8T-zACLcBGAsYHQ/s48/aestheticpic.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-4p6kono4p8A/YL4r4fdFLzI/AAAAAAAAAAU/Lc-r-_yCvycELMMZzTuq5QJw6y3g8T-zACLcBGAsYHQ/s72/aestheticpic.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-4p6kono4p8A/YL4r4fdFLzI/AAAAAAAAAAU/Lc-r-_yCvycELMMZzTuq5QJw6y3g8T-zACLcBGAsYHQ/s96/aestheticpic.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-4p6kono4p8A/YL4r4fdFLzI/AAAAAAAAAAU/Lc-r-_yCvycELMMZzTuq5QJw6y3g8T-zACLcBGAsYHQ/s144/aestheticpic.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-4p6kono4p8A/YL4r4fdFLzI/AAAAAAAAAAU/Lc-r-_yCvycELMMZzTuq5QJw6y3g8T-zACLcBGAsYHQ/s168/aestheticpic.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-4p6kono4p8A/YL4r4fdFLzI/AAAAAAAAAAU/Lc-r-_yCvycELMMZzTuq5QJw6y3g8T-zACLcBGAsYHQ/s192/aestheticpic.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-4p6kono4p8A/YL4r4fdFLzI/AAAAAAAAAAU/Lc-r-_yCvycELMMZzTuq5QJw6y3g8T-zACLcBGAsYHQ/s512/aestheticpic.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
