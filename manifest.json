@@ -1,11 +1,11 @@
 {
-  "name": "aestheticpic.com",
-  "short_name": "aestheticpic.com",
-  "start_url": "https://www.aestheticpic.com/",
+  "name": "iwannafile.com",
+  "short_name": "iwannafile.com",
+  "start_url": "https://www.iwannafile.com/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#008080",
-  "description": "aestheticpic,aesthetic picture,aesthetic wallpapers,aesthetic meme,aesthetic images,aesthetic quotes,aesthetic art.",
+  "description": "iwannafile,aesthetic picture,aesthetic wallpapers,aesthetic meme,aesthetic images,aesthetic quotes,aesthetic art.",
   "icons": [{
     "src": "https://1.bp.blogspot.com/-4p6kono4p8A/YL4r4fdFLzI/AAAAAAAAAAU/Lc-r-_yCvycELMMZzTuq5QJw6y3g8T-zACLcBGAsYHQ/s48/aestheticpic.png",
     "sizes": "48x48",
